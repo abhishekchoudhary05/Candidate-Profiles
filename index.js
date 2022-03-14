@@ -24,22 +24,6 @@ const data = [
         "previousCompancy": "TCS",
         "speciality": "Backend",
         "image": "https://randomuser.me/api/portraits/men/13.jpg"
-    },
-    {
-        "name": "Aakansha Soni",
-        "location": "Bilaspur",
-        "experience": "2 years 5 months",
-        "previousCompancy": "Oracle",
-        "speciality": "Backend",
-        "image": "https://randomuser.me/api/portraits/women/11.jpg"
-    },
-    {
-        "name": "Poonam Singhai",
-        "location": "Indore",
-        "experience": "4 years 3 months",
-        "previousCompancy": "Riverbed",
-        "speciality": "Backend",
-        "image": "https://randomuser.me/api/portraits/women/31.jpg"
     }
 ];
 
